@@ -1,1 +1,1 @@
-A Salesforce project to manage student records, track attendance, store exam results, and generate dashboards. Includes automation with Flows and Apex for alerts and performance updates.
+The Salesforce project creates a Student Attendance and Performance Tracker for colleges, replacing manual processes with a centralized system for attendance, exam results, alerts, and dashboards. Key stakeholders include faculty for marking attendance/results, students for tracking, management for reports, and optionally parents for notifications.
